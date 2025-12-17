@@ -18,4 +18,3 @@ export default function searchByAge(age){
     });
    
 }
-searchByAge(54).then((msg)=>console.log(msg)).catch((msg)=>console.log(msg))
