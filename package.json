@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/menachemhershkop/find_danger_test#readme",
   "dependencies": {
+    "analiza-sync": "^1.0.1",
     "readline-sync": "^1.4.10"
   }
 }
